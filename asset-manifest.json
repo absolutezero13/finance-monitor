@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/finance-monitor/static/css/main.6a47b0ce.chunk.css",
-    "main.js": "/finance-monitor/static/js/main.1abeed02.chunk.js",
-    "main.js.map": "/finance-monitor/static/js/main.1abeed02.chunk.js.map",
+    "main.js": "/finance-monitor/static/js/main.87188c5e.chunk.js",
+    "main.js.map": "/finance-monitor/static/js/main.87188c5e.chunk.js.map",
     "runtime-main.js": "/finance-monitor/static/js/runtime-main.bdceb905.js",
     "runtime-main.js.map": "/finance-monitor/static/js/runtime-main.bdceb905.js.map",
     "static/js/2.84fc5328.chunk.js": "/finance-monitor/static/js/2.84fc5328.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bdceb905.js",
     "static/js/2.84fc5328.chunk.js",
     "static/css/main.6a47b0ce.chunk.css",
-    "static/js/main.1abeed02.chunk.js"
+    "static/js/main.87188c5e.chunk.js"
   ]
 }
