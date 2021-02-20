@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/finance-monitor/static/css/main.6a47b0ce.chunk.css",
+    "main.js": "/finance-monitor/static/js/main.1abeed02.chunk.js",
+    "main.js.map": "/finance-monitor/static/js/main.1abeed02.chunk.js.map",
+    "runtime-main.js": "/finance-monitor/static/js/runtime-main.bdceb905.js",
+    "runtime-main.js.map": "/finance-monitor/static/js/runtime-main.bdceb905.js.map",
+    "static/js/2.84fc5328.chunk.js": "/finance-monitor/static/js/2.84fc5328.chunk.js",
+    "static/js/2.84fc5328.chunk.js.map": "/finance-monitor/static/js/2.84fc5328.chunk.js.map",
+    "static/js/3.1624c6f3.chunk.js": "/finance-monitor/static/js/3.1624c6f3.chunk.js",
+    "static/js/3.1624c6f3.chunk.js.map": "/finance-monitor/static/js/3.1624c6f3.chunk.js.map",
+    "index.html": "/finance-monitor/index.html",
+    "static/css/main.6a47b0ce.chunk.css.map": "/finance-monitor/static/css/main.6a47b0ce.chunk.css.map",
+    "static/js/2.84fc5328.chunk.js.LICENSE.txt": "/finance-monitor/static/js/2.84fc5328.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdceb905.js",
+    "static/js/2.84fc5328.chunk.js",
+    "static/css/main.6a47b0ce.chunk.css",
+    "static/js/main.1abeed02.chunk.js"
+  ]
+}
